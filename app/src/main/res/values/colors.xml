@@ -10,4 +10,7 @@
     <color name="material_red_700">#D50000</color>
     <color name="material_green_700">#00C853</color>
 
+    <color name="widgetText">#fff</color>
+    <color name="widget_background">#000</color>
+
 </resources>
